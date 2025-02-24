@@ -1,5 +1,6 @@
 - 👋 Hi there, I’m Vineet Khanna
-- 👨🏼‍🎓 I’m currently a MS in Computer Science student.
+- 💼 Software Developer, with close to 2 YEO experience
+- 👨🏼‍🎓 MSCS graduate majoring in AI, B.Tech Computer Engineering
 - 📫 Reach me at: vineet1998@gmail.com
 
 <!---
